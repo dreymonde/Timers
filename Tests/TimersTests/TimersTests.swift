@@ -88,3 +88,17 @@ final class TimersTests: XCTestCase {
         wait(for: [expectation], timeout: 3.0)
     }
 }
+
+enum README() {
+    
+    func readme1() {
+        
+let timers = Timers()
+
+timers.addRepeating(timeInterval: 1.0, withTarget: self) { (self) in
+    self.reloadData()
+}
+        
+    }
+    
+}

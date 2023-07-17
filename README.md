@@ -8,7 +8,7 @@
 
 ---
 
-> Medium article: [Simplify working with Timers in Swift & UIKit](https://medium.com/@olegdreyman/simplify-working-with-timers-in-swift-uikit-1fecfeba4f29)
+> Medium article: [Simplifying Swift Timers: solving memory leaks & complexity once and for all](https://medium.com/@olegdreyman/simplify-working-with-timers-in-swift-uikit-1fecfeba4f29)
 
 **Timers** is a lightweight package that provides a convenient way to handle and manage timers in Swift, especially in view controllers to automatically manage lifetime of timers.
 
