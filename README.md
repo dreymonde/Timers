@@ -50,6 +50,7 @@ final class RefreshingViewController: UIViewController {
 - [x] Timers that fire at a specific date and then repeat with a set interval
 - [x] Full access to `Foundation.Timer` APIs for more complex use cases
 - [x] Easy to extend
+- [x] Unit-tested
 
 ## Installation
 
