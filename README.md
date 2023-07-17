@@ -57,6 +57,9 @@ final class RefreshingViewController: UIViewController {
 1. Click File &rarr; Swift Packages &rarr; Add Package Dependency.
 2. Enter `https://github.com/dreymonde/Timers.git`
 
+> **Note**<br>
+> **Timers** is a very simple library and only consists of one file (Timers.swift). Do not expect updates, this release is likely final. If you need additional functionality, feel free to fork or copy Timers.swift directly into your project and extend. PRs are also welcome.
+
 ## Guide
 
 > All these timers are managed by the `Timers` instance and are invalidated automatically when the `Timers` instance is deallocated.
