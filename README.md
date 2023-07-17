@@ -1,6 +1,6 @@
 # Timers
 
-**Swift NSTimers that don't suck**
+**Intuitive Swift timers with automatic memory management**
 
 <a href="https://u24.gov.ua">
   <img src="Media/donate.png" height="70">
